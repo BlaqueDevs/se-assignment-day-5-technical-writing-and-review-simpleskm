@@ -90,4 +90,15 @@ Headings and subheadings can be used to generate a table of contents, further ai
 * Incorporate Keywords
 * Use Proper Capitalization
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+*  Project Title
+* Project Description
+*  Motivation
+*  Status
+*  Quick Start
 ## 12. How can you succinctly convey the purpose and key features of a product?
+Start with a one-sentence summary that clearly states what the product does and its primary benefit. Example: “This app helps users manage their daily tasks efficiently by providing an intuitive interface and powerful organizational tools.”
+List the main features in bullet points to make them easy to scan.
+Example:
+Task Categorization: Organize tasks into different categories for better management.
+Deadline Reminders: Set reminders to ensure you never miss a deadline.
+Progress Tracking: Monitor your progress with visual indicators.
